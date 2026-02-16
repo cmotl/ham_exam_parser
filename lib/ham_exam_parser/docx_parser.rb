@@ -19,7 +19,8 @@ module HamExamParser
     # Matches group headers, e.g. "T1A - Purpose and permissible..."
     # Also handles formats without a dash, e.g. "T1A Purpose and permissible..."
     # Also handles the question count in brackets like [4 Exam Questions - 4 Groups]
-    GROUP_RE = /\A\s*([TEG]\d[A-Z])\s*[-–—]?\s*(.+)/i
+    # The (?!\d) prevents matching errata lines like "G1A04 – question deleted"
+    GROUP_RE = /\A\s*([TEG]\d[A-Z])(?!\d)\s*[-–—]?\s*(.+)/i
 
     attr_reader :questions, :subelements
 
