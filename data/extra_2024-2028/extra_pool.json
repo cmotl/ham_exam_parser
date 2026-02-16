@@ -8,7 +8,7 @@
       "groups": [
         {
           "id": "E0A",
-          "title": "",
+          "title": "Safety: RF radiation hazards; hazardous materials; grounding",
           "questions": [
             {
               "id": "E0A01",
@@ -176,7 +176,7 @@
       "groups": [
         {
           "id": "E1A",
-          "title": "",
+          "title": "Frequency privileges; signal frequency range; automatic message forwarding; stations aboard ships or aircraft; power restriction on 630- and 2200-meter bands",
           "questions": [
             {
               "id": "E1A01",
@@ -325,7 +325,7 @@
         },
         {
           "id": "E1B",
-          "title": "",
+          "title": "Station restrictions and special operations: restrictions on station location; general operating restrictions; spurious emissions; antenna structure restrictions; RACES operations",
           "questions": [
             {
               "id": "E1B01",
@@ -474,7 +474,7 @@
         },
         {
           "id": "E1C",
-          "title": "",
+          "title": "Automatic and remote control; band-specific regulations; operating in and communicating with foreign countries; spurious emission standards; HF modulation index limit; band-specific rules",
           "questions": [
             {
               "id": "E1C01",
@@ -636,7 +636,7 @@
         },
         {
           "id": "E1D",
-          "title": "",
+          "title": "Amateur Space and Earth stations; telemetry and telecommand rules; identification of balloon transmissions; one-way communications",
           "questions": [
             {
               "id": "E1D01",
@@ -798,7 +798,7 @@
         },
         {
           "id": "E1E",
-          "title": "",
+          "title": "Volunteer examiner program: definitions; qualifications; preparation and administration of exams; reimbursement; accreditation; question pools; documentation requirements",
           "questions": [
             {
               "id": "E1E01",
@@ -947,7 +947,7 @@
         },
         {
           "id": "E1F",
-          "title": "",
+          "title": "Miscellaneous rules: external RF power amplifiers; prohibited communications; spread spectrum; auxiliary stations; Canadian amateurs operating in the US; special temporary authority",
           "questions": [
             {
               "id": "E1F01",
@@ -1102,7 +1102,7 @@
       "groups": [
         {
           "id": "E2A",
-          "title": "",
+          "title": "Amateur radio in space: amateur satellites; orbital mechanics; frequencies and modes; satellite hardware; satellite operations",
           "questions": [
             {
               "id": "E2A01",
@@ -1264,7 +1264,7 @@
         },
         {
           "id": "E2B",
-          "title": "",
+          "title": "Television practices: fast-scan television standards and techniques; slow scan television standards and techniques",
           "questions": [
             {
               "id": "E2B01",
@@ -1426,7 +1426,7 @@
         },
         {
           "id": "E2C",
-          "title": "",
+          "title": "Contest and DX operating; remote operation techniques; log data format; contact confirmation; RF network systems",
           "questions": [
             {
               "id": "E2C01",
@@ -1588,7 +1588,7 @@
         },
         {
           "id": "E2D",
-          "title": "",
+          "title": "Operating methods: digital modes and procedures for VHF and UHF; APRS; EME procedures; meteor scatter procedures",
           "questions": [
             {
               "id": "E2D01",
@@ -1737,7 +1737,7 @@
         },
         {
           "id": "E2E",
-          "title": "",
+          "title": "Operating methods: digital modes and procedures for HF",
           "questions": [
             {
               "id": "E2E01",
@@ -1918,7 +1918,7 @@
       "groups": [
         {
           "id": "E3A",
-          "title": "",
+          "title": "Electromagnetic Waves and Specialized Propagation: Earth-Moon-Earth (EME) communications; meteor scatter; microwave tropospheric and scatter propagation; auroral propagation; daily variation of ionospheric propagation; circular polarization",
           "questions": [
             {
               "id": "E3A01",
@@ -2106,7 +2106,7 @@
         },
         {
           "id": "E3B",
-          "title": "",
+          "title": "Transequatorial propagation; long-path propagation; ordinary and extraordinary waves; chordal hop; sporadic-E mechanisms; ground-wave propagation",
           "questions": [
             {
               "id": "E3B01",
@@ -2281,7 +2281,7 @@
         },
         {
           "id": "E3C",
-          "title": "",
+          "title": "Propagation prediction and reporting: radio horizon; effects of space-weather phenomena",
           "questions": [
             {
               "id": "E3C01",
@@ -2449,7 +2449,7 @@
       "groups": [
         {
           "id": "E4A",
-          "title": "",
+          "title": "Test equipment: analog and digital instruments; spectrum analyzers; antenna analyzers; oscilloscopes; RF measurements",
           "questions": [
             {
               "id": "E4A01",
@@ -2598,7 +2598,7 @@
         },
         {
           "id": "E4B",
-          "title": "",
+          "title": "Measurement technique and limitations: instrument accuracy and performance limitations; probes; techniques to minimize errors; measurement of Q; instrument calibration; S parameters; vector network analyzers; RF signals",
           "questions": [
             {
               "id": "E4B01",
@@ -2747,7 +2747,7 @@
         },
         {
           "id": "E4C",
-          "title": "",
+          "title": "Receiver performance: phase noise, noise floor, image rejection, minimum detectable signal (MDS), increasing signal-to-noise ratio and dynamic range, noise figure, reciprocal mixing; selectivity; SDR non-linearity; use of attenuators at low frequencies",
           "questions": [
             {
               "id": "E4C01",
@@ -2935,7 +2935,7 @@
         },
         {
           "id": "E4D",
-          "title": "",
+          "title": "Receiver performance characteristics: dynamic range; intermodulation and cross-modulation interference; third-order intercept; desensitization; preselector; sensitivity; link margin",
           "questions": [
             {
               "id": "E4D01",
@@ -3110,7 +3110,7 @@
         },
         {
           "id": "E4E",
-          "title": "",
+          "title": "Noise and interference: external RF interference; electrical and computer noise; line noise; DSP filtering and noise reduction; common-mode current; surge protectors; single point ground panel",
           "questions": [
             {
               "id": "E4E01",
@@ -3304,7 +3304,7 @@
       "groups": [
         {
           "id": "E5A",
-          "title": "",
+          "title": "Resonance and Q: characteristics of resonant circuits; series and parallel resonance; definitions and effects of Q; half-power bandwidth",
           "questions": [
             {
               "id": "E5A01",
@@ -3479,7 +3479,7 @@
         },
         {
           "id": "E5B",
-          "title": "",
+          "title": "Time constants and phase relationships: RL and RC time constants; phase angle in reactive circuits and components; admittance and susceptance",
           "questions": [
             {
               "id": "E5B01",
@@ -3641,7 +3641,7 @@
         },
         {
           "id": "E5C",
-          "title": "",
+          "title": "Coordinate systems and phasors in electronics: rectangular coordinates; polar coordinates; phasors; logarithmic axes",
           "questions": [
             {
               "id": "E5C01",
@@ -3803,7 +3803,7 @@
         },
         {
           "id": "E5D",
-          "title": "",
+          "title": "RF effects in components and circuits: skin effect; real and reactive power; electrical length of conductors",
           "questions": [
             {
               "id": "E5D01",
@@ -3971,7 +3971,7 @@
       "groups": [
         {
           "id": "E6A",
-          "title": "",
+          "title": "Semiconductor materials and devices: semiconductor materials; bipolar junction transistors; operation and types of field-effect transistors",
           "questions": [
             {
               "id": "E6A01",
@@ -4133,7 +4133,7 @@
         },
         {
           "id": "E6B",
-          "title": "",
+          "title": "Diodes",
           "questions": [
             {
               "id": "E6B01",
@@ -4282,7 +4282,7 @@
         },
         {
           "id": "E6C",
-          "title": "",
+          "title": "Digital ICs: families of digital ICs; gates; programmable logic devices",
           "questions": [
             {
               "id": "E6C01",
@@ -4431,7 +4431,7 @@
         },
         {
           "id": "E6D",
-          "title": "",
+          "title": "Inductors and piezoelectricity: permeability, core material and configuration; transformers; piezoelectric devices",
           "questions": [
             {
               "id": "E6D01",
@@ -4580,7 +4580,7 @@
         },
         {
           "id": "E6E",
-          "title": "",
+          "title": "Semiconductor materials and packages for RF use",
           "questions": [
             {
               "id": "E6E01",
@@ -4742,7 +4742,7 @@
         },
         {
           "id": "E6F",
-          "title": "",
+          "title": "Electro-optical technology: photoconductivity; photovoltaic devices; optical sensors and encoders; optically isolated switching",
           "questions": [
             {
               "id": "E6F01",
@@ -4897,7 +4897,7 @@
       "groups": [
         {
           "id": "E7A",
-          "title": "",
+          "title": "Digital circuits: digital circuit principles and logic circuits; classes of logic elements; positive and negative logic; frequency dividers; truth tables",
           "questions": [
             {
               "id": "E7A01",
@@ -5046,7 +5046,7 @@
         },
         {
           "id": "E7B",
-          "title": "",
+          "title": "Amplifiers: class of operation; vacuum tube and solid-state circuits; distortion and intermodulation; spurious and parasitic suppression; switching-type amplifiers",
           "questions": [
             {
               "id": "E7B01",
@@ -5208,7 +5208,7 @@
         },
         {
           "id": "E7C",
-          "title": "",
+          "title": "Filters and matching networks: types of networks; types of filters; filter applications; filter characteristics; impedance matching",
           "questions": [
             {
               "id": "E7C01",
@@ -5357,7 +5357,7 @@
         },
         {
           "id": "E7D",
-          "title": "",
+          "title": "Power supplies and voltage regulators; solar array charge controllers",
           "questions": [
             {
               "id": "E7D01",
@@ -5558,7 +5558,7 @@
         },
         {
           "id": "E7E",
-          "title": "",
+          "title": "Modulation and demodulation: reactance, phase, and balanced modulators; detectors; mixers",
           "questions": [
             {
               "id": "E7E01",
@@ -5707,7 +5707,7 @@
         },
         {
           "id": "E7F",
-          "title": "",
+          "title": "Software defined radio fundamentals: digital signal processing (DSP) filtering, modulation, and demodulation; analog-digital conversion; digital filters",
           "questions": [
             {
               "id": "E7F01",
@@ -5895,7 +5895,7 @@
         },
         {
           "id": "E7G",
-          "title": "",
+          "title": "Operational amplifiers: characteristics and applications",
           "questions": [
             {
               "id": "E7G01",
@@ -6057,7 +6057,7 @@
         },
         {
           "id": "E7H",
-          "title": "",
+          "title": "Oscillators and signal sources: types of oscillators; synthesizers and phase-locked loops; direct digital synthesizers; stabilizing thermal drift; microphonics; high-accuracy oscillators",
           "questions": [
             {
               "id": "E7H01",
@@ -6238,7 +6238,7 @@
       "groups": [
         {
           "id": "E8A",
-          "title": "",
+          "title": "Fourier analysis; RMS measurements; average RF power and peak envelope power (PEP); analog/digital conversion",
           "questions": [
             {
               "id": "E8A01",
@@ -6387,7 +6387,7 @@
         },
         {
           "id": "E8B",
-          "title": "",
+          "title": "Modulation and demodulation: modulation methods; modulation index and deviation ratio; frequency- and time-division multiplexing; orthogonal frequency-division multiplexing (OFDM)",
           "questions": [
             {
               "id": "E8B01",
@@ -6536,7 +6536,7 @@
         },
         {
           "id": "E8C",
-          "title": "",
+          "title": "Digital signals: digital communication modes; information rate vs. bandwidth; error correction; constellation diagrams",
           "questions": [
             {
               "id": "E8C01",
@@ -6737,7 +6737,7 @@
         },
         {
           "id": "E8D",
-          "title": "",
+          "title": "Keying defects and overmodulation of digital signals; digital codes; spread spectrum",
           "questions": [
             {
               "id": "E8D01",
@@ -6892,7 +6892,7 @@
       "groups": [
         {
           "id": "E9A",
-          "title": "",
+          "title": "Basic antenna parameters: radiation resistance, gain, beamwidth, efficiency; effective radiated power (ERP) and effective isotropic radiated power (EIRP)",
           "questions": [
             {
               "id": "E9A01",
@@ -7054,7 +7054,7 @@
         },
         {
           "id": "E9B",
-          "title": "",
+          "title": "Antenna patterns and designs: azimuth and elevation patterns; gain as a function of pattern; antenna modeling",
           "questions": [
             {
               "id": "E9B01",
@@ -7203,7 +7203,7 @@
         },
         {
           "id": "E9C",
-          "title": "",
+          "title": "Practical wire antennas; folded dipoles; phased arrays; effects of ground near antennas",
           "questions": [
             {
               "id": "E9C01",
@@ -7391,7 +7391,7 @@
         },
         {
           "id": "E9D",
-          "title": "",
+          "title": "Yagi antennas; parabolic reflectors; feed point impedance and loading of electrically short antennas; antenna Q; RF grounding",
           "questions": [
             {
               "id": "E9D01",
@@ -7553,7 +7553,7 @@
         },
         {
           "id": "E9E",
-          "title": "",
+          "title": "Impedance matching: matching antennas to feed lines; phasing lines; power dividers",
           "questions": [
             {
               "id": "E9E01",
@@ -7689,7 +7689,7 @@
         },
         {
           "id": "E9F",
-          "title": "",
+          "title": "Transmission lines: characteristics of open and shorted feed lines; coax versus open wire; velocity factor; electrical length; coaxial cable dielectrics; microstrip",
           "questions": [
             {
               "id": "E9F01",
@@ -7851,7 +7851,7 @@
         },
         {
           "id": "E9G",
-          "title": "",
+          "title": "The Smith chart",
           "questions": [
             {
               "id": "E9G01",
@@ -8000,7 +8000,7 @@
         },
         {
           "id": "E9H",
-          "title": "",
+          "title": "Receiving antennas: radio direction finding (RDF) techniques; Beverage antennas; single- and multiple-turn loops",
           "questions": [
             {
               "id": "E9H01",

@@ -17,8 +17,9 @@ module HamExamParser
     SUBELEMENT_RE = /\A\s*SUBELEMENT\s+([TEG]\d)\s*[-–—]\s*(.+)/i
 
     # Matches group headers, e.g. "T1A - Purpose and permissible..."
+    # Also handles formats without a dash, e.g. "T1A Purpose and permissible..."
     # Also handles the question count in brackets like [4 Exam Questions - 4 Groups]
-    GROUP_RE = /\A\s*([TEG]\d[A-Z])\s*[-–—]\s*(.+)/i
+    GROUP_RE = /\A\s*([TEG]\d[A-Z])\s*[-–—]?\s*(.+)/i
 
     attr_reader :questions, :subelements
 
