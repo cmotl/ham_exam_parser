@@ -15,6 +15,7 @@
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
             git
+            neovim
             ruby_3_3
             pkg-config
             libxml2
